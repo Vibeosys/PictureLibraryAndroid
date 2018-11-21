@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="photochooser.vibeosys.com.photo">
+    <uses-permission android:name="android.permission.CAMERA"></uses-permission>
+    <application>
+        <activity android:name=".TakePictureActivity"></activity>
+    </application>
+
+</manifest>
